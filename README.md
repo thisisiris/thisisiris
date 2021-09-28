@@ -5,7 +5,7 @@
 - 📫 How to reach me:
       email: taniris200010@gmail.com
       instagram: @thisis.iris
-      linkedin: htts://www.linkedin.com/in/thisisiris/
+      linkedin: https://www.linkedin.com/in/thisisiris/
 
 <!---
 thisisiris/thisisiris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
