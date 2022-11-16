@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to further improve my skills in frontend development to grow an eye for design
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me:
-      email: taniris200010@gmail.com
+      email: iris.tan@dsnetasia.com
       instagram: @thisis.iris
       linkedin: https://www.linkedin.com/in/thisisiris/
 
