@@ -5,7 +5,6 @@
 - 📫 How to reach me:
       email: iris.tan@dsnetasia.com
       instagram: @thisis.iris
-      linkedin: https://www.linkedin.com/in/thisisiris/
 
 <!---
 thisisiris/thisisiris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
