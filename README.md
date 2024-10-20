@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning to further improve my skills in frontend development to grow an eye for design
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me:
-      email: iris.tan@dsnetasia.com
-      instagram: @thisis.iris
+
+  	email: iris.tan@dsnetasia.com
+
+  	instagram: @thisis.iris
 
 <!---
 thisisiris/thisisiris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
